@@ -36,7 +36,7 @@ footer {
    text-align: center;
    */
 }
-#headerp {
+.headerp {
   margin-right:50px;
   margin-top: .2rem;
   margin-bottom: 0;
@@ -46,7 +46,7 @@ footer {
   font-style: italic;
 
 }
-#boldp {
+.boldp {
   margin-right:50px;
   margin-top: .2rem;
   margin-bottom: 0;
@@ -54,12 +54,12 @@ footer {
   color: #2c9ab7;
   padding-left:50px;
   padding-right:50px;
-  padding-top:10px;
+  padding-top:25px;
   padding-bottom:5px;
   font-weight: bold;
 }
 
-#bolditalicp {
+.bolditalicp {
   margin-right:0px;
   margin-top: 0px;
   margin-bottom: 0;
@@ -73,7 +73,7 @@ footer {
   font-style:italic;
 }
 
-#regularp {
+.regularp {
   margin-right:50px;
   margin-top: .1rem;
   margin-bottom: 0;
@@ -81,11 +81,11 @@ footer {
   color: black;
   padding-left:50px;
   padding-right:50px;
-  padding-top:2px;
+  padding-top:10px;
   padding-bottom:10px;
 }
 
-#sidebarh3 {
+.sidebarh3 {
   margin-right:0;
   margin-top: .2rem;
   margin-bottom: 0;
@@ -98,7 +98,7 @@ footer {
 
 }
 
-#footerp {
+.footerp {
   margin-right:100px;
   margin-left:100px;
   margin-top:2px;
@@ -107,7 +107,7 @@ footer {
   padding:0;
 }
 
-#sectionh3 {
+.sectionh3 {
   margin-right:0;
   margin-top: .2rem;
   margin-bottom: 0;
@@ -115,11 +115,11 @@ footer {
   color: black;
   padding-left:50px;
   padding-right:50px;
-  padding-top:8px;
+  padding-top:25px;
   padding-bottom:5px;
 
 }
-#navlist {
+.navlist {
   margin-right:0;
   margin-top:0;
   margin-bottom: 0;
@@ -167,4 +167,6 @@ li a {
 }
 a {
   padding-bottom: 14px;
+  color: #2c9ab7;
+  text-decoration: none;
 }
